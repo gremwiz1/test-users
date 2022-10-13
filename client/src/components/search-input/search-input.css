@@ -1,0 +1,16 @@
+.search {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+}
+.search__input {
+  width: 100%;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.search__icon {
+  cursor: pointer;
+  transition: 1s;
+  margin-left: 10px;
+  margin-right: 10px;
+}
